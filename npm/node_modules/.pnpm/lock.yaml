@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  three: ^0.142.0
+
+dependencies:
+  three: registry.npmmirror.com/three/0.142.0
+
+packages:
+
+  registry.npmmirror.com/three/0.142.0:
+    resolution: {integrity: sha512-ESjPO+3geFr+ZUfVMpMnF/eVU2uJPOh0e2ZpMFqjNca1wApS9lJb7E4MjwGIczgt9iuKd8PEm6Pfgp2bJ92Xtg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/three/-/three-0.142.0.tgz}
+    name: three
+    version: 0.142.0
+    dev: false
